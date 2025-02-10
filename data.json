@@ -1,0 +1,114 @@
+{
+  "Cars": [
+    {
+      "id": "6624",
+      "name": "Sudhansh Kumar",
+      "deliveryDate": "2025-12-31",
+      "address": "bhopal,MP",
+      "advance": "",
+      "model": "Ferrari Purosangue",
+      "number": "1234567891",
+      "carId": "4",
+      "price": 105000000,
+      "image": "/puro.jpeg"
+    },
+    {
+      "id": "f504",
+      "name": "Anil Babani",
+      "deliveryDate": "2026-12-31",
+      "address": "bhopal,MP",
+      "advance": "",
+      "model": "Ferrari 296 GTB",
+      "number": "9999888876",
+      "carId": "6",
+      "price": 54000000,
+      "image": "/296.jpeg"
+    },
+    {
+      "id": "a64a",
+      "name": "Chris Martin",
+      "deliveryDate": "2025-12-31",
+      "address": "bhopal,MP",
+      "advance": "",
+      "model": "Porsche 911 GT3 RS",
+      "number": "5555",
+      "carId": "2",
+      "price": 35100000,
+      "image": "/gt3.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": "1",
+      "name": "Porsche 911 Turbo S",
+      "description": "Fast and Furious with turbo engine with raw power",
+      "price": 33500000,
+      "image": "/911ts.png",
+      "bookedCount": 0
+    },
+    {
+      "id": "2",
+      "name": "Porsche 911 GT3 RS",
+      "description": "Track Beast made for tricky tracks with unreal aerodynamics",
+      "price": 35100000,
+      "image": "/gt3.png",
+      "bookedCount": 1
+    },
+    {
+      "id": "3",
+      "name": "Porsche 718 Boxter",
+      "description": "A Convertible car with great power and lot of fun",
+      "price": 27400000,
+      "image": "/718.png",
+      "bookedCount": 0
+    },
+    {
+      "id": "4",
+      "name": "Ferrari Purosangue",
+      "description": "Fast and Furious with turbo engine with raw power",
+      "price": 105000000,
+      "image": "/puro.jpeg",
+      "bookedCount": 0
+    },
+    {
+      "id": "5",
+      "name": "Ferrari Roma",
+      "description": "Track Beast made for tricky tracks with unreal aerodynamics",
+      "price": 37600000,
+      "image": "/roma.jpeg",
+      "bookedCount": 0
+    },
+    {
+      "id": "6",
+      "name": "Ferrari 296 GTB",
+      "description": "A Convertible car with great power and lot of fun",
+      "price": 54000000,
+      "image": "/296.jpeg",
+      "bookedCount": 0
+    },
+    {
+      "id": "7",
+      "name": "Lamborghini Urus",
+      "description": "Fast and Furious with turbo engine with raw power",
+      "price": 45700000,
+      "image": "/urus.png",
+      "bookedCount": 0
+    },
+    {
+      "id": "8",
+      "name": "Lamborghini Revuelto",
+      "description": "Track Beast made for tricky tracks with unreal aerodynamics",
+      "price": 88900000,
+      "image": "/rev.jpeg",
+      "bookedCount": 1
+    },
+    {
+      "id": "9",
+      "name": "Lamborghini Huracan",
+      "description": "A Convertible car with great power and lot of fun",
+      "price": 32200000,
+      "image": "/huracan.png",
+      "bookedCount": 0
+    }
+  ]
+}
